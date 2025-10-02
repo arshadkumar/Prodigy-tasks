@@ -3,6 +3,7 @@ Prodigy Internship Tasks
 This repository contains my completed tasks for the Prodigy InfoTech Data Science Internship. Each task focuses on applying data science, machine learning, and visualization techniques to real-world datasets.
 
 📂 Tasks Overview
+
 🔹 Task 01 – Population Visualization
 
 Visualized population growth trends in India using Matplotlib & Seaborn.
